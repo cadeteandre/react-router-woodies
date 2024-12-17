@@ -1,0 +1,10 @@
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.home__info h3, .home__info h1 {
+    margin-bottom: 30px;
+    max-width: 480px;
+}

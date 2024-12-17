@@ -1,0 +1,50 @@
+.categories {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.categories__title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+.categories__title h1 {
+    opacity: 0.2;
+}
+
+.categories__images {
+    display: flex;
+    gap: 40px;
+}
+
+.categories__img {
+    background-position: cover;
+    width: 280px;
+    height: 400px;
+}
+
+.categories__img button {
+    position: relative;
+    top: 300px;
+    left: 150px;
+}
+.categories__img h4 {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    font-family: 'Nunito-bold';
+    font-size: 24px;
+}
+
+.jenson__img {
+    background: url('../../../public/images/Tisch.png');
+}
+.deon__img {
+    background: url('../../../public/images/Stuhl.png');
+}
+.krisha__img {
+    background: url('../../../public/images/Schuesseln.png');
+}

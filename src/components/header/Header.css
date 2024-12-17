@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 25.5px 80px;
+    margin-bottom: 80px;
+}
+
+nav {
+    display: flex;
+    gap: 48px;
+}

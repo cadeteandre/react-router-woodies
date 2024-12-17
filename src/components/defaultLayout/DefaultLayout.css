@@ -1,0 +1,10 @@
+.default__description {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.default__description p {
+    font-size: 24px;
+    max-width: 448px;
+}

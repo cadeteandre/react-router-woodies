@@ -1,0 +1,23 @@
+.outlet {
+    margin-bottom: 120px;
+}
+
+.app__container {
+    min-height: 100vh;
+}
+
+.home__background {
+    background: linear-gradient(to right, white 70%, #fdd3d4 30%);
+}
+
+.default__background {
+    background-color: #fff;
+}
+
+.home__padding {
+    padding-left: 100px;
+}
+
+.default__padding {
+    padding: 0 100px;
+}
